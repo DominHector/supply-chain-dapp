@@ -1,11 +1,11 @@
 # supply-chain-dapp
 
-Supplychain<br>
+###Supplychain
 ![This is an image](./img/supplychain.png)
 
-Sequence<br>
+###Sequence
 ![This is an image](./img/sequence.png)
 
-State<br>
+###State
 ![This is an image](./img/state.png)
  
