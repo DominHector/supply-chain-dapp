@@ -1,7 +1,7 @@
 # 3. Supply Chain Dapp
 
-Supply chain that allows its users to interact with the DApp. 
-Manage the product life cycle as the product moves through the supply chain.
+Supply chain that allows users to interact with the DApp.
+Manage the product lifecycle as the product moves through the supply chain.
 
 ## UML
 ### Supplychain
