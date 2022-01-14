@@ -1,11 +1,14 @@
 # supply-chain-dapp
 
-###Supplychain
+### Supplychain
 ![This is an image](./img/supplychain.png)
 
-###Sequence
+### Sequence
 ![This is an image](./img/sequence.png)
 
-###State
+### State
 ![This is an image](./img/state.png)
+ 
+### Data Modeling
+![This is an image](./img/data-modeling.png)
  
