@@ -250,7 +250,6 @@ contract SupplyChain is FarmerRole, DistributorRole, RetailerRole, ConsumerRole,
   paidEnough(items[_upc].productPrice)
     // Call modifer to send any excess ether back to buyer
   checkValue(_upc)
-
   onlyDistributor
   {
     // Update the appropriate fields - ownerID, distributorID, itemState
@@ -310,7 +309,7 @@ contract SupplyChain is FarmerRole, DistributorRole, RetailerRole, ConsumerRole,
     items[_upc].ownerID = msg.sender;
     items[_upc].consumerID = msg.sender;
     items[_upc].itemState = State.Purchased;
-    
+
     // Emit the appropriate event
     emit Purchased(_upc);
   }
