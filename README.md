@@ -13,7 +13,7 @@ Manage the product lifecycle as the product moves through the supply chain.
 ### State
 ![This is an image](./img/state.png)
  
-### Data Modeling
+### Class (Data Model)
 ![This is an image](./img/data.png)
  
  ## Versions
