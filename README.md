@@ -20,6 +20,7 @@ Manage the product lifecycle as the product moves through the supply chain.
  Node: v12.13.1<br>
  Truffle: Truffle v4.1.14<br>
  Solidity: v0.4.24<br>
+ web3: v1.2.1<br>
  Metamask: 5.3.1 https://github.com/MetaMask/metamask-extension/releases/download/v5.3.1/metamask-chrome-5.3.1-1.zip
  
  ## Libraries
