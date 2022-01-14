@@ -10,5 +10,5 @@
 ![This is an image](./img/state.png)
  
 ### Data Modeling
-![This is an image](./img/data-modeling.png)
+![This is an image](./img/data.png)
  
